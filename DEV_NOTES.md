@@ -12,3 +12,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Bumped patch version
 - Added type hints to helper functions
+
+## 2026-03-23
+- Updated license year
+- Checked for memory leaks in long-running path
+- Updated .gitignore to exclude build artifacts
