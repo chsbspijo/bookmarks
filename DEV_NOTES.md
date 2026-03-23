@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Checked for memory leaks in long-running path
 - Updated .gitignore to exclude build artifacts
+
+## 2026-03-23
+- Added .editorconfig for consistent formatting
+- Tidied up project structure
